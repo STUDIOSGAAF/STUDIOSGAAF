@@ -6,15 +6,20 @@
 
 ## 🛠️ Tecnologías Utilizadas
 
-  <td width="25%" align="center">
-        <span>Unity</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/unity.svg">
-  </td>
-  
-  <td width="25%" align="center">
+  <table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
         <span>𝗖#</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
-  </td>
+      </td>
+      <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/unity.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 <!-- ## 🌐 Conéctate con Nosotros

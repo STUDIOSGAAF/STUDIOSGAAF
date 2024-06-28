@@ -7,7 +7,7 @@
 ## 🛠️ Tecnologías Utilizadas
 
   <td width="25%" align="center">
-        <span>𝗖#</span><br><br><br>
+        <span>Unity</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/unity.svg">
   </td>
   

@@ -2,11 +2,15 @@
 
 ¡Bienvenidos a nuestro proyecto! Somos un pequeño grupo de amigos que ha decidido crear comenzar a crear proyectos que esperamos que os gusten.
 
-<h3> 📠 Puedes encontrar todos nuestros proyectos en: https://github.com/STUDIOSGAAF </h3>
+📠 Puedes encontrar todos nuestros proyectos en: https://github.com/STUDIOSGAAF
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Unity**: Utilizamos Unity para el desarrollo de nuestro juego. <!-- Falta añadir imágenes de las tecnologías -->
+  <td width="25%" align="center">
+        <span>𝗖#</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/unity.svg">
+  </td>
+  
   <td width="25%" align="center">
         <span>𝗖#</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
@@ -20,7 +24,7 @@ Sigue nuestras aventuras y actualizaciones en nuestras redes sociales:
 - [Instagram](https://www.instagram.com/tu-empresa) 📸
 - [Twitter](https://www.twitter.com/tu-empresa) 🐦 -->
 
-<h3> 📫 También puedes encontrarnos en </h3>
+📫 También puedes encontrarnos en: 
 
 <p align="center">
    <a href="mailto:studiosgaaf@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-studiosgaaf@gmail.com-blue?style=flat&logo=gmail"></a>

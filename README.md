@@ -8,8 +8,6 @@
 ## 🛠️ Tecnologías Utilizadas
 
 - **Unity**: Utilizamos Unity para el desarrollo de nuestro juego. <!-- Falta añadir imágenes de las tecnologías -->
-- **C#**: Programamos todas las funcionalidades en C#.
-
   <td width="25%" align="center">
         <span>𝗖#</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">

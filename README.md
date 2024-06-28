@@ -24,13 +24,13 @@ Sigue nuestras aventuras y actualizaciones en nuestras redes sociales:
 - [Instagram](https://www.instagram.com/tu-empresa) 📸
 - [Twitter](https://www.twitter.com/tu-empresa) 🐦 -->
 
-📫 También puedes encontrarnos en: 
-
 <p align="center">
    <a href="mailto:studiosgaaf@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-studiosgaaf@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=STUDIOSGAAF" alt="EfrainSD" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=STUDIOSGAAF" alt="EfrainSD"/>
+</p>
 
 
 <!-- ### 📱 Busca más sobre nosotros

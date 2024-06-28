@@ -1,7 +1,7 @@
 # 🎮 Somos GAAF Studios
 
 ¡Bienvenidos a nuestro proyecto! Somos un pequeño grupo de amigos que ha decidido crear comenzar a crear proyectos que esperamos que os gusten.
-<img src="https://komarev.com/ghpvc/?username=EfrainSD" alt="EfrainSD" />
+<img src="https://komarev.com/ghpvc/?username=STUDIOSGAAF" alt="EfrainSD" />
 
 <h3> 📠 Puedes encontrar todos nuestros proyectos en: https://github.com/STUDIOSGAAF </h3>
 
